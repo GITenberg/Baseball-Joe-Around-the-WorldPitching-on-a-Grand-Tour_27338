@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32638'
     url: http://www.gutenberg.org/2009/agents/32638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27338#Baseball-Joe-Around-the-WorldPitching-on-a-Grand-Tour
 gutenberg_issued: '2008-11-27'
 gutenberg_type: Text
 identifiers:
